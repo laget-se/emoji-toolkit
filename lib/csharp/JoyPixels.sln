@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoyPixels", "JoyPixels\JoyPixels.csproj", "{70578227-521B-4F7A-81FB-628BB7D5CC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoyPixels.Tests", "JoyPixels.Tests\JoyPixels.Tests.csproj", "{EC5E9283-64CF-40AA-B236-DEEDB0760042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70578227-521B-4F7A-81FB-628BB7D5CC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70578227-521B-4F7A-81FB-628BB7D5CC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70578227-521B-4F7A-81FB-628BB7D5CC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70578227-521B-4F7A-81FB-628BB7D5CC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5E9283-64CF-40AA-B236-DEEDB0760042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5E9283-64CF-40AA-B236-DEEDB0760042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5E9283-64CF-40AA-B236-DEEDB0760042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5E9283-64CF-40AA-B236-DEEDB0760042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CBA094-FB05-49DF-A031-479C8EB236B2}
+	EndGlobalSection
+EndGlobal

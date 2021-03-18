@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIWTuKh3xI1uvaoT2oH7U5KOFVx0hDZq1NtUz0+95pQ4t2lmgbUSNYBfREr6ze7nAfAX2oNYx8S2xltKv9DJ5Q==",
+  "success": true,
+  "projectFilePath": "D:\\emoji-toolkit\\lib\\csharp\\EmojiToolkit\\JoyPixels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\erikh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
