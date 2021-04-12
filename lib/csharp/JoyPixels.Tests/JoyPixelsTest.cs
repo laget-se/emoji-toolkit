@@ -1,13 +1,19 @@
 using Xunit;
+using JoyPixels;
 
 namespace EmojiToolkit.Tests
 {
-    public class UnitTest1
+    public class JoyPixelsTest
     {
-        [Fact]
-        public void Test1()
-        {
+        private IClient Client = new JoyPixels.Client();
 
+        [Fact]
+        public void TestShortnameToUnicode()
+        {
+            var test = "Hello world! 😄 :smile:";
+            var expected = "Hello world! 😄 😄";
+
+            Assert.Equal(expected, Client.ShortnameToUnicode(test));
         }
     }
 }

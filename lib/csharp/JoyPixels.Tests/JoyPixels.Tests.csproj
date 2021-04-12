@@ -20,7 +20,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EmojiToolkit\JoyPixels.csproj" />
+    <ProjectReference Include="..\JoyPixels\JoyPixels.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\..\..\emoji.json">
+      <Link>emoji.json</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
