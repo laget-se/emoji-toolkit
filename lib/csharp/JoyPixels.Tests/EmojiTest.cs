@@ -1,5 +1,4 @@
 using Xunit;
-using JoyPixels;
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;

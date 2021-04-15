@@ -1,5 +1,4 @@
 using Xunit;
-using JoyPixels;
 
 namespace JoyPixels.Tests
 {
