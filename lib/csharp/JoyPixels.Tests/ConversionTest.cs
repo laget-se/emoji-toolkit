@@ -1,7 +1,7 @@
 using Xunit;
 using JoyPixels;
 
-namespace EmojiToolkit.Tests
+namespace JoyPixels.Tests
 {
     public class ConversionTest
     {
